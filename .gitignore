@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+
+# app
+app
+
+# config
+config.json
+
+# build directory
+build/
+
+
+# Mac
+.DS_Store
